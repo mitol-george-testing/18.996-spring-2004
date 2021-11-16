@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b0aef56b-3718-7943-bbf2-3e022d647800",
+      "4bd885ba-75e1-10e9-f75f-124e2da66800"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Random Matrix Theory and Its Applications",
+  "course_description": "This course is an introduction to the basics of random matrix theory, motivated by engineering and scientific applications.\n",
+  "department_numbers": [
+    "18",
+    "16"
+  ],
+  "extra_course_numbers": "16.399",
+  "primary_course_number": "18.996",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
